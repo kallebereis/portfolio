@@ -1,0 +1,79 @@
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5%;
+}
+
+#main_content {
+  display: flex;
+  flex-direction: column;
+}
+
+#main_content h2 {
+  margin-bottom: 2%;
+  font-size: 2.2em;
+}
+
+#main_content .text {
+  margin-bottom: 10%;
+}
+
+#main_content .text p {
+  width: 75%;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.cards-container {
+  display: flex;
+  align-items: center;
+}
+
+.cards-container ion-icon {
+  width: 120px;
+  height: 120px;
+  background-color: #eee;
+  border-radius: 8px;
+  padding: 10px;
+  margin-right: 0.9em;
+  margin-left: 0.9em;
+  cursor: pointer;
+}
+
+.cards-container ion-icon:hover {
+  box-shadow: 0px 0px 8px #00E0FF;
+  transition: box-shadow .3s ease-in-out;
+}
+
+.cards-container ion-icon:first-child {
+  color: #E44D26;
+}
+
+.cards-container ion-icon:nth-child(2) {
+  color: #264DE4;
+}
+
+.cards-container ion-icon:last-child {
+  color: #F7DF1E;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+figure img {
+  border-radius: 50%;
+  border: 2px solid #00E0FF;
+  transition: .2s ease-in-out;
+  cursor: pointer;
+}
+
+figure img:hover {
+  box-shadow: 0px 0px 6px #00E0FF;
+}
