@@ -4,9 +4,7 @@ Este é um projeto de portfólio pessoal desenvolvido por **Kallebe**. O site fo
 
 ## 💻 Demonstração
 
-Veja o projeto em ação (adicione o link quando publicar):
-
-[🔗 Link do Portfólio](https://seu-link-aqui.com)
+![Imagem demonstrativa do projeto](.github/projeto.png)
 
 ## 📌 Funcionalidades
 
