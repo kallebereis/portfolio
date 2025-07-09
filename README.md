@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Dev.Kallebe
 
-Este é um projeto de portfólio pessoal desenvolvido por **Kallebe**. O site foi construído utilizando HTML e CSS com foco em responsividade e design limpo.
+Este é um projeto de portfólio pessoal desenvolvido por mim. O site foi construído utilizando HTML e CSS com foco em responsividade e design limpo.
 
 ## 💻 Demonstração
 
@@ -11,7 +11,7 @@ Este é um projeto de portfólio pessoal desenvolvido por **Kallebe**. O site fo
 - Página única com design responsivo
 - Seção “Sobre Mim” apresentando o desenvolvedor
 - Ícones sociais com links para GitHub, LinkedIn e Instagram
-- Destaque para tecnologias dominadas (HTML e CSS)
+- Destaque para tecnologias dominadas (HTML, CSS e JavaScript)
 - Estrutura limpa e modular de CSS
 
 ## 🚀 Tecnologias Utilizadas
@@ -20,23 +20,6 @@ Este é um projeto de portfólio pessoal desenvolvido por **Kallebe**. O site fo
 - CSS3 
 - Google Fonts (Montserrat)  
 - Ícones do [Ionicons](https://ionic.io/ionicons)
-
-## 📁 Estrutura de Pastas
-
-02-portfolio/
-├── css/
-│ ├── reset.css
-│ ├── header.css
-│ ├── main.css
-│ ├── footer.css
-│ └── responsive.css
-├── img/
-│ └── (imagens usadas no site)
-├── index.html
-
-bash
-Copiar
-Editar
 
 ## 🛠️ Como Executar Localmente
 
